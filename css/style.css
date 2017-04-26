@@ -1,0 +1,29 @@
+body {
+  margin-top: 40px;
+  color:red;
+}
+
+.jumbotron {
+  background: url('http://www.thebestcatholic.com/wp-content/uploads/2016/10/The-Best-Catholic.JPII_.jpeg')0;
+  min-height: 300px;
+  background-size:cover;
+  
+  }
+h1{
+  font-weight:bold
+}
+
+
+h2{
+  font-weight:bold;
+}
+h3 {
+  text-align: center;
+  font-size:30px;
+  color:blue;
+     
+}
+p2{
+  color:black;
+}
+
